@@ -3,7 +3,7 @@
 ## Repository Settings
 
 - [X] Add author name and email to `/docs/_config.yml`
-- [ ] Activate the documentation site: **Settings** -> scroll to **Github Pages** -> source: **master branch /docs folder** and **Save**
+- [X] Activate the documentation site: **Settings** -> scroll to **Github Pages** -> source: **master branch /docs folder** and **Save**
 - [ ] Enable vulnerability alerts: **Settings** -> scroll to **Data Services** -> check **Vulnerability Alerts**
 - [ ] Add any necessary branch protection rules: **Settings** -> **Branches** -> **Branch Protection Rules**
   - [ ] Master branch must require:
