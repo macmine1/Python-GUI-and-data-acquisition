@@ -1,14 +1,14 @@
 # name
-name: New Repository Documentation
+name: Python-GUI-and-data-acquisition
 
 # description
-description: Documentation site for the new respository.
+description: This repo will contain all the files necessary to run the GUI and data acquisition software needed for the LabJack hardware.
 
 # site theme
 theme: jekyll-theme-minimal
 
 # author
-author: UND-ARC
-author_email: 
+author: Graham Scheib
+author_email: graham.scheib@und.edu
 
 show_downloads: true
